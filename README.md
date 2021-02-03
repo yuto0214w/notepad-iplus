@@ -10,4 +10,4 @@ yuto0214w が「これあったら便利」と思ったものだけを追加し�
 ### Run ((現在は)バッチファイルをワンクリックで実行)
 (将来的には)ワンクリックで拡張子にあったものを実行できます。
 ## 動作環境
-(現在は) x64 の Windows PC と最新の .NET Framework</br>(.NET Framework ダウングレードしようと思ってます)
+Works on .NET Framework 4.7.2 installed Windows.
